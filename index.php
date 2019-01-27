@@ -16,7 +16,7 @@ $DisplayForm = True;
 if ($DisplayForm = True) {
 ?>
 
-<form method="post" action="calcOnePage.php"> 
+<form method="post" action="index.php"> 
 
 Number 1: <input type="text" name="num1" value="" /> 
 +
